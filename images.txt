@@ -1,1 +1,2 @@
 alpine:3.19.1
+zookeeper:3.7.0
