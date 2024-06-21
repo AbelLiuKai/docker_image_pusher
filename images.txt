@@ -1,1 +1,1 @@
-bogeit/kafka:2.8.1
+postgres:13.7-bullseye
