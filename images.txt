@@ -1,1 +1,1 @@
-kube-rbac-proxy:v0.14.2
+grafana:9.5.3
