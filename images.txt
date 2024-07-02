@@ -1,2 +1,2 @@
-docker.io/bogeit/prometheus-adapter:v0.11.1
+golang:1.22.4
 
