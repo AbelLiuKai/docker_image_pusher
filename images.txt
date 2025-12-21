@@ -4,3 +4,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.11.0
 docker.elastic.co/kibana/kibana:8.11.0
 fluent/fluentd:v1.16-1
 fluent/fluentd-kubernetes-daemonset:v1.16.3-debian-elasticsearch8-1.0
+bitnami/fluentd:1.16.1
