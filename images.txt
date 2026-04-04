@@ -1,1 +1,1 @@
-kubeapps-apis:2.7.0-debian-11-r10
+nginx:3.6.7
