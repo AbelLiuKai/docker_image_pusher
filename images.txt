@@ -7,3 +7,4 @@ alpine:latest
 alpine:3.20
 hashicorp/consul:latest
 redis:alpine
+easzlab/kubeasz:3.6.7
