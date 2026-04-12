@@ -2,3 +2,4 @@ nginx:1.28.3
 golang:1.19.11-alpine3.18
 alpine:3.18
 redis:7.0
+nginx:1.28.1
