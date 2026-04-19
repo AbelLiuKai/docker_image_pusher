@@ -4,3 +4,4 @@ alpine:3.18
 redis:7.0
 nginx:1.28.1
 busybox:1.37.0
+busybox:v1.29.2
