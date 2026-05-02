@@ -6,3 +6,5 @@ nginx:1.28.1
 busybox:1.37.0
 busybox:1.36.0
 docker.io/nicolaka/netshoot
+aliyun-ingress-controller:v1.9.3-aliyun.1
+kube-webhook-certgen:v1.1.1
