@@ -1,2 +1,3 @@
-registry.cn-beijing.aliyuncs.com/acs/kube-webhook-certgen:v1.5.1
-docker.io/traefik/whoami:v1.11
+registry.k8s.io/autoscaling/vpa-updater:1.6.0
+registry.k8s.io/autoscaling/vpa-recommender:1.6.0
+registry.k8s.io/autoscaling/vpa-admission-controller:1.6.0
