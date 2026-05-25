@@ -1,1 +1,1 @@
-quay.io/opstree/redis:v7.0.15
+ghcr.io/rabbitmq/cluster-operator:2.21.0
