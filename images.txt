@@ -1,1 +1,1 @@
-ghcr.io/rabbitmq/cluster-operator:2.21.0
+rabbitmq:3.13-management
