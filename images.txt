@@ -1,1 +1,1 @@
-rabbitmq:3.13-management
+docker.elastic.co/eck/eck-operator:3.4.0
