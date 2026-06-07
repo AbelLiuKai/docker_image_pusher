@@ -1,1 +1,1 @@
-docker.elastic.co/eck/eck-operator:3.4.0
+docker.elastic.co/elasticsearch/elasticsearch:8.17.0
