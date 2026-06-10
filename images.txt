@@ -1,1 +1,1 @@
-tomcat:7.0
+docker.elastic.co/beats/filebeat:8.17.0
