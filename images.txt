@@ -1,1 +1,1 @@
-docker.elastic.co/beats/filebeat:8.17.0
+williamguozi/log-pilot-filebeat:containerd
