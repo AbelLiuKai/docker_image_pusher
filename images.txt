@@ -1,1 +1,2 @@
-gitlab/gitlab-ce:latest
+postgres:16.4-alpine
+redis:7.4-alpine
