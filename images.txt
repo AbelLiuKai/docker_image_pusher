@@ -1,2 +1,1 @@
-docker:stable
-gitlab/gitlab-runner-helper:x86_64-9fc34d48
+docker:29.6.0-dind
