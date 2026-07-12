@@ -1,1 +1,1 @@
-docker:29.6.0-dind
+alpine:3.19
