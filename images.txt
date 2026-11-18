@@ -1,1 +1,1 @@
-alpine:3.19
+onlyoffice/documentserver:7.5
