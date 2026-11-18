@@ -1,2 +1,1 @@
-swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/onlyoffice/documentserver:7.5.1
 docker.1ms.run/onlyoffice/documentserver:7.5.1
